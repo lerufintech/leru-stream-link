@@ -1,0 +1,1 @@
+Leru Stream public link resolver. Only the public tunnel URL is stored here. The app, database, accounts and credentials remain on the owner’s Mac. target.json is maintained by the local health-check service. The destination is restricted to HTTPS trycloudflare.com hosts. Hosting this resolver does not keep the Mac or app online.
